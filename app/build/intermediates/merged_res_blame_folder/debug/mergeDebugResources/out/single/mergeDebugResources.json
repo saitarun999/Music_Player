@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "com.example.music_player.app-debug-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.music_player.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.music_player.app-debug-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.music_player.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.music_player.app-debug-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.music_player.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.music_player.app-debug-32:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.music_player.app-pngs-28:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.music_player.app-debug-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.music_player.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.music_player.app-debug-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.music_player.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.music_player.app-debug-32:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.music_player.app-pngs-28:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.music_player.app-debug-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.music_player.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.music_player.app-debug-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.music_player.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.music_player.app-debug-32:/drawable_baseline_pause_24.xml.flat",
+        "source": "com.example.music_player.app-main-34:/drawable/baseline_pause_24.xml"
+    },
+    {
+        "merged": "com.example.music_player.app-debug-32:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.music_player.app-pngs-28:/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.music_player.app-debug-32:/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.music_player.app-pngs-28:/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.music_player.app-debug-32:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.music_player.app-pngs-28:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.music_player.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.example.music_player.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.music_player.app-debug-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.music_player.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.music_player.app-debug-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.music_player.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.music_player.app-debug-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.music_player.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.music_player.app-debug-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.music_player.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.music_player.app-debug-32:/xml_backup_rules.xml.flat",
+        "source": "com.example.music_player.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.music_player.app-debug-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.music_player.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.music_player.app-debug-32:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.music_player.app-pngs-28:/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.music_player.app-debug-32:/raw_shape_of_you.mp3.flat",
+        "source": "com.example.music_player.app-main-34:/raw/shape_of_you.mp3"
+    },
+    {
+        "merged": "com.example.music_player.app-debug-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.music_player.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.music_player.app-debug-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.music_player.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.music_player.app-debug-32:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.music_player.app-pngs-28:/drawable-hdpi/ic_launcher_foreground.png"
+    }
+]
